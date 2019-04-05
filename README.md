@@ -12,3 +12,9 @@ There was a problem with customers having the /home directory fill up due to vid
 ### periodicReboot.sh
 
 A script to reboot our client devices nightly (at the business owners request) to prevent machine freeze-ups. 
+
+---
+
+### fourthSundayRefresh.sh
+
+Refreshes a database on the 4th Sunday of every month. More or less kept for the logic of running on a specific (n)th date of a month.
