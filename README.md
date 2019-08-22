@@ -24,5 +24,6 @@ Refreshes a database on the 4th Sunday of every month. More or less kept for the
 ### pythonDjangoSample.sh
 
 A script created for a DevOps interview challenge. Automates installing dependencies, running the server.
-Notes after interview:	1.) Pipe requirements file to pull in required dependencies automatically.
-			2.) Possibly set up GitHub project that is used as a package / container.
+Notes during the interview:	
+- Pipe requirements file to pull in required dependencies automatically.
+- Possibly set up GitHub project that is used as a package / container.
