@@ -27,3 +27,10 @@ A script created for a DevOps interview challenge. Automates installing dependen
 Notes during the interview:	
 - Pipe requirements file to pull in required dependencies automatically.
 - Possibly set up GitHub project that is used as a package / container.
+
+---
+
+### serverCopy.sh
+
+When it comes to my home server I grew incredibly tired of rsyncing all of my download data from the cloud. Here's a script to fix that.
+NOTE: This is a kind of rushed hack-job. Take it with a grain of salt.
